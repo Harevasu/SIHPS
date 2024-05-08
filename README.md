@@ -73,5 +73,7 @@ Integration Testing: Test the interaction between different components of your a
 UI Testing Tools (e.g., Selenium, Cypress): For automated testing of the user interface.
 ## Dependencies
 Mapping Services – 7 to 10 Days
+<br>
 Data Collection – 10 to 14 Days
+<br>
 Estimated Budget – Rs. 15,000 to Rs. 25,000
