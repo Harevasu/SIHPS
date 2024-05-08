@@ -39,7 +39,8 @@ Ministry of Environment
 ![image](https://github.com/Harevasu/SIHPS/assets/147985044/fb683732-9167-4c85-81e1-490775fe13d8)
 
 ## Technology Stack
-![Uploading image-2.png…]()
+![image-2](https://github.com/Harevasu/SIHPS/assets/147985044/203a7df5-f41c-4f02-9688-1db7f34e32b6)
+
 
 1. Frontend Development:
 HTML/CSS: For structuring and styling the website.
